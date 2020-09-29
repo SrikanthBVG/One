@@ -1,0 +1,131 @@
+    1  cd d:
+    2  git --version 
+    3  git clone https://github.com/SrikanthBVG/Test1-for-session.git
+    4  pwd
+    5  git status
+    6  mkdir sample
+    7  pwd
+    8  cd sample/
+    9  git init
+   10  git status
+   11  cd /
+   12  pwd
+   13  cd cd C:users
+   14  cd c/Users/user1/Test1-for-session/
+   15  git status
+   16  cd ..
+   17  cd sample/
+   18  git push
+   19  git remote add https://github.com/SrikanthBVG
+   20  git remote add origin https://github.com/SrikanthBVG
+   21  git push
+   22  git push --set-upstream origin master
+   23  git push origin master --force
+   24  git fetch origin/master
+   25  git remote -v
+   26  git rebase origin/master
+   27  git remote add origin https://github.com/SrikanthBVG/bvg
+   28  git remote add sss https://github.com/SrikanthBVG/bvg
+   29  git remote -v
+   30  git push 
+   31  git push --set-upstream sss master
+   32  cd ..
+   33  cd Test1-for-session/
+   34  touch sample.txt
+   35  git status
+   36  git add sample.txt 
+   37  git status 
+   38  git rm --cached sample.txt 
+   39  git status 
+   40  git add sample.txt 
+   41  git status 
+   42  git commit 
+   43  git config user.name
+   44  git config user.name "sri"
+   45  git config user.name
+   46  git config user.email "buddavarapu.srikanth@gmail.com"
+   47  git config user.email
+   48  git commit
+   49  git commit
+   50  git status
+   51  git add sample.txt 
+   52  git commit 
+   53  git status
+   54  git commit
+   55  git commit -m "second commit"
+   56  git log
+   57  git reflog
+   58  git push
+   59  git status
+   60  git history.txt
+   61  history
+   62  history > commands.txt
+   63  history 
+   64  history test.txt
+   65  history --help
+   66  cd Test1-for-session/
+   67  git status
+   68  git add .
+   69  git commit
+   70  git status
+   71  git push
+   72  git branch
+   73  git branch new
+   74  git checkout new
+   75  touch test1
+   76  rm test1
+   77  touch test1.txt
+   78  gedit test1.txt 
+   79  notepad test1.txt 
+   80  git status
+   81  git add .
+   82  git commit
+   83  git status
+   84  git checkout master 
+   85  git merge new
+   86  git push
+   87  git push new
+   88  cat test1.txt 
+   89  git status
+   90  touch p.pt
+   91  gedit p.pt
+   92  gedit 
+   93  gedit --help
+   94  gedit -help
+   95  mkdir task1
+   96  cd task1/
+   97  git init
+   98  touch file1
+   99  rm file1 
+  100  rm file1.txt
+  101  touch file1.txt
+  102  notepad file1.txt 
+  103  git status
+  104  git add.
+  105  git add .
+  106  git commit -m "first commit for file1"
+  107  git config --global user.name
+  108  git config --global user.name "Srikanth BVG"
+  109  git config --global user.email "buddavarapu.srikanth@gmail.com"
+  110  git commit -m "first commit for file1"
+  111  git status
+  112  git push
+  113  git remote add origin https://github.com/SrikanthBVG
+  114  git push origin
+  115  git push --set-upstream origin master 
+  116  git remote add origin https://github.com/SrikanthBVG/Task1.git
+  117  git remote add origin1 https://github.com/SrikanthBVG/Task1.git
+  118  git push --set-upstream origin master 
+  119  git push --set-upstream origin1 master 
+  120  touch file2.txt
+  121  notepad file2.txt
+  122  git status
+  123  git add .
+  124  git commit
+  125  git status
+  126  git push
+  127  git push
+  128  git push
+  129  history his.txt
+  130  history
+  131  history > his.txt
